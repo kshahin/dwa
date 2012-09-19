@@ -21,7 +21,24 @@ h2:after
 	margin-top: 0.4em;
 }
 
+p
+{
+	padding-left: 3em;
+	padding-right: 2em;
+}
+
 p, ul
 {
-	padding: 0em 4em 0em 4em;
+	width: 40%;
+	float: left;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
 }
