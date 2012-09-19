@@ -21,7 +21,7 @@ h2:after
 	margin-top: 0.4em;
 }
 
-p
+p, ul
 {
 	padding: 0em 4em 0em 4em;
 }
