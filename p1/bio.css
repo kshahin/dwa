@@ -1,11 +1,24 @@
+html
+{
+	background-color:#DEFFED;
+}
+
 body
 {
 	font-family: "Arial", sans-serif, "Times New Roman", serif;
 }
 
-h1
+h2
 {
-	color:#221122;
+	color:#224466;
+}
+
+h2:after
+{
+	border-bottom: 0.1em solid #223344;
+    display: block;
+    content: "";
+	margin-top: 0.4em;
 }
 
 p
