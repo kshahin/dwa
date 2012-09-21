@@ -1,10 +1,6 @@
 html
 {
 	background-color:#DEFFED;
-}
-
-body
-{
 	font-family: "Arial", sans-serif, "Times New Roman", serif;
 }
 
@@ -29,7 +25,7 @@ p
 
 p, ul
 {
-	width: 40%;
+	width: 35%;
 	float: left;
 }
 
